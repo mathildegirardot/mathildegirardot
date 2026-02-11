@@ -2,7 +2,7 @@ Hi, I’m Mathilde Girardot and my code is available at the name @mathildegirard
 
 I am passionated by physical oceanography and I am currently studying mechanics and modelisation.
 
-You can reach me at this email address : mathilde.girardot@yahoo.fr
+You can reach me at this email address : mathilde.girardot@gu.se.
 
 
 <!---
